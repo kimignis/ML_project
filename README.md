@@ -1,5 +1,8 @@
 # ML_project
 
+![image](https://github.com/kimignis/ML_project/assets/99465486/fa7ded9d-b9a3-4d4b-9fd1-86b3458f56d3)
+
+
 ## sklearn을 통하여 구현한 DBSCAN
 
 ## def euclidiean_distance(x1,x2):
